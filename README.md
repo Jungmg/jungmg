@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&white=300&section=header&text=Hi%20MingiHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=black&auto=300&section=header&text=Hi%20MingiHub&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmg&count_private=true)
 
