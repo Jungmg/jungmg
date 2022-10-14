@@ -2,3 +2,7 @@
 
 <a href="https://www.facebook.com/profile.php?id=100005521683482" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=[Facebook]&logoColor=white"/></a> 
 <a href="[https://www.instagram.com/m.ingi]" target="_blank"><img src="https://img.shields.io/badge/INSTARGRAM-E4405F?style=flat-square&logo=[Instagram]&logoColor=RED"/></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
+jungmg=anuraghazra&show_icons=true)
