@@ -4,5 +4,4 @@
 <a href="[https://www.instagram.com/m.ingi]" target="_blank"><img src="https://img.shields.io/badge/INSTARGRAM-E4405F?style=flat-square&logo=[Instagram]&logoColor=RED"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
-jungmg=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apijungmg=anuraghazra&show_icons=true&theme=radical)
